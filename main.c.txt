@@ -3,3 +3,8 @@ main()
 	 print("hello chutio");
 }
 
+
+void fun()
+{
+	printf("ji sir")
+}
